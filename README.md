@@ -1,2 +1,3 @@
 # chainbet
-chainbet
+ethereum chain dapp
+bet game
